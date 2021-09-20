@@ -1,10 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 h1 {
+    margin-left: 30%;
+    margin-top: 20%;
     background: brown;
     color: burlywood;
     max-width: max-content;
